@@ -1,5 +1,7 @@
 <p align="center">
+    
     ![img](https://files.catbox.moe/c2z5vw.gif) 
+    
 c/h + inspo ok, readme is a wip...
 
  
