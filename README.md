@@ -1,8 +1,7 @@
 <p align="center">
     
     
- ![img](https://files.catbox.moe/c2z5vw.gif)
- 
+<img src="https://files.catbox.moe/c2z5vw.gif">
  
  </p>
     
