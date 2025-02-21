@@ -9,7 +9,7 @@
 
 <p align="center"><b>rin</b> she/her <b>jp</b>/en
 <br>c+h and inspo ok, dont copy me please!
-    <br> <a href="https://github.com/megatensei/xtra">more</a>
+    <br> <a href="https://github.com/megatensei/xtra">...more about me</a>
 </p>    
 
  <p style="color: #a8a8a8" align="center">
