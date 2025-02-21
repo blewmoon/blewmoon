@@ -11,6 +11,6 @@
  </p>
 
 <p align="center"><b>rin</b> she/her <b>jp</b>/en
-c+h and inspo ok, dont copy me please!
+<br>c+h and inspo ok, dont copy me please!
 </p>    
 
