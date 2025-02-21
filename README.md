@@ -10,5 +10,5 @@
  I don't want to let go, let's stay together forever</i></sub>
  </p>
 
-    
-<p align="center">c/h + inspo ok, readme is a wip...</p>
+<p align="center"><b>rin</b> she/her <b>jp</b>/en</p>    
+<p align="center">c/h + inspo ok</p>
