@@ -5,9 +5,7 @@
 
 
  <sub><i>I'll sing this song that will make us join hands
-
- 
-I don't want to let go, let's stay together forever</i></sub>
+ I don't want to let go, let's stay together forever</i></sub>
  </p>
 
     
