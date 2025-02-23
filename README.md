@@ -7,7 +7,7 @@
 
 
 
-<p align="center"><b>rin</b> she/her <b>jp</b>/en
+<p align="center"><b>rin</b> she/her <b>jp</b>/en asleep=afk
 <br>c+h and inspo ok, dont copy me please!
     <br> <a href="https://github.com/megatensei/xtra">...more about me</a>
 </p>    
