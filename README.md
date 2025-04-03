@@ -1,3 +1,5 @@
+<p align="center"><a href="https://www.yourworldoftext.com/~rinne/3">sign me!</a></p>
+
 <p align="center">
     
     
@@ -16,9 +18,3 @@
 <a href="https://youtu.be/QkG7tIGYgSw?si=WW4sWjqDQOLjGpE4">  <sub><i>I'll sing this song that will make us join hands...
  I don't want to let go, let's stay together forever</i></sub></a>
  </p>
-<p align="center">
-    
-    
-<a href="https://www.yourworldoftext.com/~rinne/3">sign me!</a>
-
-</p>
