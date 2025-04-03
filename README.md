@@ -19,6 +19,6 @@
 <p align="center">
     
     
-<a href="https://www.yourworldoftext.com/~rinne/3"<:3</a>
+<a href="https://www.yourworldoftext.com/~rinne/3">sign me!</a>
 
 </p>
