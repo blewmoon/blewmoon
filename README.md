@@ -15,7 +15,6 @@
 </p>    
 
  <p style="color: #a8a8a8" align="center">
- <a href="https://youtu.be/QkG7tIGYgSw?si=WW4sWjqDQOLjGpE4">  <sub><i>I'll sing this song that will make us join hands...
-  I don't want to let go, let's stay together forever</i></sub></a>
+ <sub><i>idk how to do aesthetic profile stuff sorryr</i></sub></a>
   </p>
 
