@@ -14,7 +14,7 @@
     <br> <a href="https://github.com/megatensei/xtra">...more about me</a>  
 </p>    
 
- <p style="align=center">
+ <p align="center">
   ![](https://komarev.com/ghpvc/?username=megatensei&color=E5A5B0&style=flat&label=victims)
   </p>
 
