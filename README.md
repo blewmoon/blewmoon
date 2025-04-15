@@ -11,7 +11,8 @@
 
 <p align="center"><b>rin</b> <b>jp</b>/en. asleep=afk
 <br>c+h and inspo ok, dont copy me please!
-    <br> <a href="https://github.com/megatensei/xtra">...more about me</a> ![](https://komarev.com/ghpvc/?username=megatensei&label=victims&color=lightgrey)
+    <br> <a href="https://github.com/megatensei/xtra">...more about me</a>  
+    ![](https://komarev.com/ghpvc/?username=megatensei&label=victims&color=lightgrey)
 </p>    
 
  <p style="color: #a8a8a8" align="center">
