@@ -1,3 +1,5 @@
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 <p align="center"><a href="https://www.yourworldoftext.com/~rinne/3">sign me!</a></p>
 
 <p align="center">
@@ -19,5 +21,3 @@
  <sub><i>idk how to do aesthetic profile stuff sorryr</i></sub></a>
   </p>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
