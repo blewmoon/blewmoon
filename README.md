@@ -15,6 +15,6 @@
 </p>    
 
  <p align="center">
-  ![](https://komarev.com/ghpvc/?username=megatensei&color=E5A5B0&style=flat&label=victims)
+  ![z](https://komarev.com/ghpvc/?username=megatensei&color=E5A5B0&style=flat&label=victims)
   </p>
 
