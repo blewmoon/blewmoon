@@ -1,5 +1,3 @@
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 <p align="center"><a href="https://www.yourworldoftext.com/~rinne/3">sign me!</a></p>
 
 <p align="center">
