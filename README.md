@@ -17,5 +17,5 @@
 </p>    
 
   ⠀⠀⠀ ⠀⠀ ⠀  ⠀⠀⠀ ⠀⠀ ⠀ ⠀⠀⠀      <p align="center">
-  ![](https://komarev.com/ghpvc/?username=megatensei&color=95B0F5&style=flat&label=stalkers) 
+  ![](https://komarev.com/ghpvc/?username=megatensei&color=95B0F5&style=flat&label=contracts) 
 </p>  ⠀
