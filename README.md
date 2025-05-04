@@ -1,6 +1,3 @@
-<p align="center">
-    <a href="https://www.yourworldoftext.com/~rinne/3">sign me!</a>
-</p>
 
 
 
