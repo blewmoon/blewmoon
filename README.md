@@ -11,7 +11,3 @@
     i give up dont copy me and dont come to me about discourse idgaf i block people i dont like ty
     <br> <a href="https://github.com/megatensei/xtra">...more about me</a>  
 </p>    
-
-  ⠀⠀⠀ ⠀⠀ ⠀  ⠀⠀⠀ ⠀⠀ ⠀ ⠀⠀⠀      <p align="center">
-  ![](https://komarev.com/ghpvc/?username=megatensei&color=95B0F5&style=flat&label=contracts) 
-</p>  ⠀
