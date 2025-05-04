@@ -11,8 +11,7 @@
 
 
 <p align="center">
-    <b>rin</b> <b>jp</b>/en. asleep=afk
-<br>c+h and inspo ok, dont copy me please!
+    i give up dont copy me and dont come to me about discourse idgaf i block people i dont like ty
     <br> <a href="https://github.com/megatensei/xtra">...more about me</a>  
 </p>    
 
