@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="(x)[https://files.catbox.moe/m5c5q1.PNG]">
+<img src="https://files.catbox.moe/m5c5q1.PNG">
 </p>
 
 
