@@ -6,6 +6,6 @@
 
 
 <p align="center">
-    I HATE SHAMA
+   https://otoge.rinr.online/ I HATE SHAMA
     <br> <a href="https://github.com/megatensei/xtra">...more about me</a>  
 </p>    
